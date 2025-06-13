@@ -6,7 +6,7 @@ The code was changed from the recent released SpineJ code so that the spine, hea
 
 
 # Original SpineJ paper
-SpineJ: A software tool for quantitative analysis of nanoscale spine morphology.
+>SpineJ: A software tool for quantitative analysis of nanoscale spine morphology.
 Florian Levet, Jan Tønnesen, U. Valentin Nägerl, Jean-Baptiste Sibarita.
 Methods 2020.
 10.1016/j.ymeth.2020.01.020
