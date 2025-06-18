@@ -1,4 +1,4 @@
-# SpineJ_changes
+# SpineJ Changes
 
 See original SpineJ: https://github.com/flevet/SpineJ
 
